@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](https://drive.google.com/file/d/1k27mdblcnLXfRb2Zm09LJA_mGaL_rv_K/view?usp=sharing)
+![alt text](gameOfLife.PNG)
 
 
 ## Available Scripts
